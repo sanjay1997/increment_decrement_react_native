@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "r_app",
+    "slug": "Retailr_appApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
+
